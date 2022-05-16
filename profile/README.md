@@ -7,6 +7,8 @@ Feel free to check out the [full report], and if you're so inclined, our [hdl].
 Interested in writing JAVK assembly?  Check out our [sample programs] along
 with our [assembler].
 
+> Note that for the time being, our assembler is still in development.
+
 
 ---
 
